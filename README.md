@@ -1,16 +1,65 @@
-## Hi there 👋
+# Jason Lim
 
-<!--
-**jlimty/jlimty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Lead · Integration & Solution Architect · Singapore
 
-Here are some ideas to get you started:
+20 years building enterprise systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The last 3 architecting and deploying AI solutions.
+
+---
+
+I work at the intersection of enterprise architecture and generative AI,
+designing LLM-powered applications, multi-agent workflows, and the integration
+layers that connect AI to real business systems.
+
+Currently: AI Lead at a global pharma, driving GenAI adoption across Southeast
+Asia, ANZ, and Korea.
+
+---
+
+## What I build
+
+- LLM-powered applications (patient-facing chatbots, sales simulators, internal tools)
+- Multi-agent workflows with real integration layers, not just prompt chains
+- RAG pipelines over domain-specific enterprise data
+- AI governance frameworks and safety guardrails for regulated enterprise environments
+- The infrastructure that makes AI actually usable inside an organisation
+
+---
+
+## Currently building in public
+
+- [`ai-resume`](https://github.com/jlimty/ai-resume) - voice-enabled chat interface powered by Claude + ElevenLabs, deployed on Vercel
+- Agentic workflow demo - multi-step agent with human-in-the-loop checkpoints *(coming soon)*
+- Role-play simulators 2.0 - LLM-powered scenario simulations for training commercial and customer-facing teams *(coming soon)*
+
+---
+
+## Stack
+
+`Python` `Node.js` `Vercel` `Salesforce` `Informatica` `AWS` `REST APIs`
+
+**AI dev tools:** `Claude` `Claude Code` `GitHub Copilot` `OpenAI Codex` `ChatGPT` `VS Code`
+
+**Enterprise AI:** `Microsoft 365 Copilot` `Dify` `AWS Bedrock`
+
+**CI/CD & infra:** `Jenkins` `OpenShift` `Bitbucket` `GitHub Actions`
+
+**Certifications:** AWS Certified AI Practitioner · Certified Scrum Master · SFDC Admin / Sales Cloud / Platform App Builder · ITILv3
+
+---
+
+## Community
+
+- **Internal AI Community Lead** - founded and run cross-functional GenAI community across SEA, ANZ & Korea at a global pharma; IT + business + commercial teams
+- **Salesforce Trailblazer Community Group Singapore** - co-leader (2020-2024)
+- Co-organized Singapore Dreamin' & SEA Virtual Conference (2020-2021)
+
+---
+
+## Let's connect
+
+- [Portfolio & live demos](https://jasonlim.dev)
+- jasonlim761@gmail.com
+
+Open to conversations about enterprise AI, agentic systems, and community collaboration.
