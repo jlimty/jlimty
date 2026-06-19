@@ -27,11 +27,11 @@ Asia, ANZ, and Korea.
 
 ---
 
-## Currently building in public
+## Currently building
 
-- [`ai-resume`](https://github.com/jlimty/ai-resume) - voice-enabled chat interface powered by Claude + ElevenLabs, deployed on Vercel
-- Agentic workflow demo - multi-step agent with human-in-the-loop checkpoints *(coming soon)*
-- Role-play simulators 2.0 - LLM-powered scenario simulations for training commercial and customer-facing teams *(coming soon)*
+- Profile Web - Personal profile page with voice-enabled chat interface.
+- Agentic Memory - Technique to improve memory of agents. Researching.
+- Role-play simulators 2.0 - LLM-powered scenario simulations for role-play training. 
 
 ---
 
