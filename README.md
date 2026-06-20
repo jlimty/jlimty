@@ -1,59 +1,99 @@
 # Jason Lim
 
-AI Lead · Integration & Solution Architect · Singapore
+**Enterprise AI Architect · AI Lead · Singapore** 🇸🇬
 
-20 years building enterprise systems.
+Building enterprise AI that people actually adopt.
 
-The last 3 architecting and deploying AI solutions.
+20 years building enterprise systems. The last 3 architecting and deploying AI.
 
 ---
 
-I work at the intersection of enterprise architecture and generative AI,
-designing LLM-powered applications, multi-agent workflows, and the integration
-layers that connect AI to real business systems.
+I work at the intersection of enterprise architecture and generative AI — designing
+LLM-powered applications, multi-agent workflows, RAG pipelines, and the integration
+layers that connect AI to real business systems, while balancing governance, trust,
+security, and user experience.
 
-Currently: AI Lead at a global pharma, driving GenAI adoption across Southeast
+Currently: **AI Lead at a global pharma**, driving GenAI adoption across Southeast
 Asia, ANZ, and Korea.
+
+The hardest part of AI isn't the model. It's adoption.
 
 ---
 
 ## What I build
 
-- LLM-powered applications (patient-facing chatbots, sales simulators, internal tools)
-- Multi-agent workflows with real integration layers, not just prompt chains
-- RAG pipelines over domain-specific enterprise data
-- AI governance frameworks and safety guardrails for regulated enterprise environments
-- The infrastructure that makes AI actually usable inside an organisation
+- **LLM-powered applications** — patient-facing chatbots, sales simulators, internal tools
+- **Multi-agent workflows** — real integration layers, not just prompt chains
+- **RAG pipelines** over domain-specific enterprise data
+- **AI governance & guardrails** for regulated enterprise environments
+- **The infrastructure** that makes AI actually usable inside an organisation
+
+---
+
+## Selected work
+
+### 🎯 AI Sales Training Simulator
+Enterprise coaching platform that lets customer-facing teams practice conversations in a safe, self-paced environment. Designed to complement human trainers, not replace them.
+
+- 200+ users · piloted across 3 countries · NPS 9
+- Built with React, Dify, and OpenShift
+- RAG over enterprise knowledge
+
+### 🏥 Patient Support Assistant
+Public-facing healthcare AI assistant built with governance and safety at its core.
+
+- AWS Bedrock · enterprise guardrails · secure deployment architecture
+- Medical information summarization
+- Launching soon
 
 ---
 
 ## Currently building
 
-- Profile Web - Personal profile page with voice-enabled chat interface.
-- Agentic Memory - Technique to improve memory of agents. Researching.
-- Role-play simulators 2.0 - LLM-powered scenario simulations for role-play training. 
+- **AI Profile** — voice-enabled AI version of myself
+- **Agentic Memory** — exploring persistent memory architectures for AI agents
+- **Role-play Simulator 2.0** — next-generation AI coaching platform
 
 ---
 
 ## Stack
 
-`Python` `Node.js` `Vercel` `Salesforce` `Informatica` `AWS` `REST APIs`
+`Python` `TypeScript` `Node.js` `Vercel` `Salesforce` `Informatica` `AWS` `REST APIs`
 
-**AI dev tools:** `Claude` `Claude Code` `GitHub Copilot` `OpenAI Codex` `ChatGPT` `VS Code`
+**AI:** `OpenAI` `Claude` `AWS Bedrock` `Dify` `Microsoft 365 Copilot`
 
-**Enterprise AI:** `Microsoft 365 Copilot` `Dify` `AWS Bedrock`
+**AI dev tools:** `Claude Code` `GitHub Copilot` `OpenAI Codex` `VS Code`
 
-**CI/CD & infra:** `Jenkins` `OpenShift` `Bitbucket` `GitHub Actions`
+**CI/CD & infra:** `OpenShift` `Jenkins` `GitHub Actions` `Bitbucket`
 
 **Certifications:** AWS Certified AI Practitioner · Certified Scrum Master · SFDC Admin / Sales Cloud / Platform App Builder · ITILv3
 
 ---
 
+## My perspective
+
+Technology succeeds when people adopt it. AI doesn't solve knowledge management
+problems — it amplifies them. The best AI experiences are invisible: users shouldn't
+need to understand prompts, embeddings, or agent frameworks. They should simply feel
+their work became easier.
+
+---
+
 ## Community
 
-- **Internal AI Community Lead** - founded and run cross-functional GenAI community across SEA, ANZ & Korea at a global pharma; IT + business + commercial teams
-- **Salesforce Trailblazer Community Group Singapore** - co-leader (2020-2024)
-- Co-organized Singapore Dreamin' & SEA Virtual Conference (2020-2021)
+- **Internal AI Community Lead** — founded and run a cross-functional GenAI community across SEA, ANZ & Korea (IT + business + commercial teams)
+- **Salesforce Trailblazer Community Group Singapore** — co-leader (2020–2024)
+- Co-organized Singapore Dreamin' & SEA Virtual Conference (2020–2021)
+
+I enjoy helping people explore AI through practical experimentation and collaborative learning.
+
+---
+
+## Fun fact
+
+I initially thought generative AI would be another hype cycle. After learning how LLMs
+actually worked, I realized we were witnessing a new computing paradigm. I've been
+building enterprise AI ever since.
 
 ---
 
@@ -62,4 +102,7 @@ Asia, ANZ, and Korea.
 - [Portfolio & live demos](https://jasonlim.dev)
 - jasonlim761@gmail.com
 
-Open to conversations about enterprise AI, agentic systems, and community collaboration.
+Open to conversations about enterprise AI, agentic systems, AI architecture, product
+thinking, and community building.
+
+Let's build AI that people actually want to use.
