@@ -1,10 +1,16 @@
 # Jason Lim
 
-**Enterprise AI Architect · AI Lead · Singapore** 🇸🇬
+** AI Lead · Architect · Product Builder · Singapore** 🇸🇬
 
 Building enterprise AI that people actually adopt.
 
-20 years building enterprise systems. The last 3 architecting and deploying AI.
+"I spent the first part of my career in technical support, software development, business analysis, and enterprise architecture. That journey taught me that successful technology isn’t defined by technical sophistication—it succeeds when people actually use it.
+
+Today I focus on designing enterprise AI systems that combine LLMs, retrieval, agentic workflows, and enterprise integrations while balancing governance, trust, security, and user experience.
+
+I believe the hardest part of AI isn’t the model.
+
+It’s adoption."
 
 ---
 
