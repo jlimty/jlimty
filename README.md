@@ -4,25 +4,12 @@
 
 Building enterprise AI that people actually adopt.
 
-"I spent the first part of my career in technical support, software development, business analysis, and enterprise architecture. That journey taught me that successful technology isn’t defined by technical sophistication—it succeeds when people actually use it.
+I spent the first part of my career in technical support, software development, business analysis, and enterprise architecture. That journey taught me that successful technology isn’t defined by technical sophistication—it succeeds when people actually use it.
 
 Today I focus on designing enterprise AI systems that combine LLMs, retrieval, agentic workflows, and enterprise integrations while balancing governance, trust, security, and user experience.
 
-I believe the hardest part of AI isn’t the model.
+" The hardest part of AI isn't the model. It's adoption. "
 
-It’s adoption."
-
----
-
-I work at the intersection of enterprise architecture and generative AI — designing
-LLM-powered applications, multi-agent workflows, RAG pipelines, and the integration
-layers that connect AI to real business systems, while balancing governance, trust,
-security, and user experience.
-
-Currently: **AI Lead at a global pharma**, driving GenAI adoption across Southeast
-Asia, ANZ, and Korea.
-
-The hardest part of AI isn't the model. It's adoption.
 
 ---
 
