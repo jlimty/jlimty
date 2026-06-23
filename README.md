@@ -13,7 +13,7 @@ Today I focus on designing AI systems that combine LLMs, retrieval, agentic work
 ## What I build
 
 - LLM-powered applications — public-facing chatbots, sales simulators, internal tools
-- Multi-agent workflows — real integration layers, not just prompt chains
+- Agentic workflows — real integration layers, not just prompt chains
 - RAG pipelines over domain-specific enterprise data
 - AI governance & guardrails for regulated enterprise environments
 
