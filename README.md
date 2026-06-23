@@ -1,10 +1,10 @@
 # Jason Lim
 
-**AI Lead · Architect · Product Builder · Singapore** 🇸🇬
+**AI Lead · Solution Architect · Product Builder · Singapore** 🇸🇬
 
 Building AI solutions that people actually adopt.
 
-I spent my entire career around software solutions — as a application support, developer, business analyst, and solution architect. That journey taught me that successful technology isn't defined by technical sophistication — it succeeds when people actually use it.
+I spent my entire career around software solutions — as application support, developer, business analyst, and solution architect. That journey taught me that successful technology isn't defined by technical sophistication — it succeeds when people actually use it.
 
 Today I focus on designing AI systems that combine LLMs, retrieval, agentic workflows, and enterprise integrations while balancing governance, trust, security, and user experience.
 
@@ -12,7 +12,7 @@ Today I focus on designing AI systems that combine LLMs, retrieval, agentic work
 
 ## What I build
 
-- LLM-powered applications — patient-facing chatbots, sales simulators, internal tools
+- LLM-powered applications — public-facing chatbots, sales simulators, internal tools
 - Multi-agent workflows — real integration layers, not just prompt chains
 - RAG pipelines over domain-specific enterprise data
 - AI governance & guardrails for regulated enterprise environments
@@ -27,7 +27,7 @@ Coaching platform that lets customer-facing teams practice conversations in a sa
 - Built with React, Dify, using various LLMs, Postgres, OpenShift
 - RAG over enterprise knowledge
 
-### 🏥 Patient Support Assistant
+### 🏥 Healthcare AI Assistant
 
 Public-facing healthcare AI assistant built with governance and safety at its core.
 
